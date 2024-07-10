@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Logs
+logs/
+*.log
+
+# Docker
+.dockerignore
+
+# Compressed files
+*.zip
+*.tar.gz
+*.rar
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
