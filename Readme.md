@@ -1,6 +1,6 @@
 # STT Inference Server
 
-This project implements a Speech-to-Text (STT) Inference Server using FastAPI. It supports multiple backend models, including Faster Whisper and OpenAI Whisper, and provides both batch and real-time transcription capabilities.
+This project implements a Speech-to-Text (STT) Inference Server using FastAPI. It supports multiple backends, including Faster Whisper and OpenAI Whisper, and provides both batch and real-time transcription capabilities.
 
 ## Features
 
